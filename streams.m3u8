@@ -15,10 +15,13 @@ https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chun
 #EXTINF:-1 tvg-id="AlankarTV.yt" tvg-name="Alankar TV" group-title="Odia" tvg-logo="", Alankar TV
 https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ZeeSarthak.yt" tvg-name="Zee Sarthak" group-title="Odia" tvg-logo="", Zee Sarthak
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/main.mpd
+#EXTINF:-1 tvg-id="Badakhabar.yt" tvg-name="Badakhabar" group-title="Odia" tvg-logo="", Badakhabar
+https://live.ekamraott.com/badakhabar/badakhabar/tracks-v1a1/mono.m3u8 badakhabar
 
+#EXTINF:-1 tvg-id="DDodia.yt" tvg-name="DD Odia" group-title="Odia" tvg-logo="", DD Odia
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8  
 
-
+#EXTINF:-1 tvg-id="KanakNews.yt" tvg-name="Kanak News" group-title="Odia" tvg-logo="", Kanak News
+https://yuppftalive.akamaized.net/080823/kanaknews/hdntl=exp=1760161615~acl=%2f*~data=hdntl~hmac=1ec29fdcf68178e9fa27225958b02c417c72bae3c31cfa99fa244af8d33e9df0/chunks.m3u8
 
 
