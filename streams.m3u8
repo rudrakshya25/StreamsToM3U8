@@ -3,8 +3,22 @@
 #EXTINF:-1 tvg-id="OTV.yt" tvg-name="OTV" group-title="Odia" tvg-logo="", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Prarthana.yt" tvg-name="Prarthana" group-title="Odia" tvg-logo="", Prarthana
+#EXTINF:-1 tvg-id="PrarthanaLife.yt" tvg-name="Prarthana Life" group-title="Odia" tvg-logo="", Prarthana Life
 https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="DIY ART" tvg-name="DIY ART" group-title="Odia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dayyvk.png", DIY ART
-https://streams2.sofast.tv/ptnr-yupptv/title-DIY-ART_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/5cda3eb4-c90d-454a-a585-a540857cc56f/0.m3u8
+#EXTINF:-1 tvg-id="TarangMusic.yt" tvg-name="Tarang Music" group-title="Odia" tvg-logo="", Tarang Music
+https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TarangTv.yt" tvg-name="Tarang Tv" group-title="Odia" tvg-logo="", Tarang TV
+https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AlankarTV.yt" tvg-name="Alankar TV" group-title="Odia" tvg-logo="", Alankar TV
+https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ZeeSarthak.yt" tvg-name="Zee Sarthak" group-title="Odia" tvg-logo="", Zee Sarthak
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/main.mpd
+
+
+
+
+
