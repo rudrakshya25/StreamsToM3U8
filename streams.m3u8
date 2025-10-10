@@ -1,4 +1,5 @@
 #EXTM3U
+# -------------Odia--------------------
 
 #EXTINF:-1 tvg-id="OTV.yt" tvg-name="OTV" group-title="GitHub" tvg-logo="", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
@@ -21,6 +22,15 @@ https://live.ekamraott.com/badakhabar/badakhabar/tracks-v1a1/mono.m3u8 badakhaba
 #EXTINF:-1 tvg-id="DDoriya.yt" tvg-name="DD Oriya" group-title="GitHub" tvg-logo="", DD Oriya
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8  
 
+# ------------------Entertainment-------------------
+#EXTINF:-1 tvg-id="Sony TV HD" tvg-name="Sony TV HD" group-title="GitHub" tvg-logo="", Sony TV HD
+https://nxtlive.net/sliv/stream.m3u8?live=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f2669bc6c4bcb492fb00d7dc4b3fb952a85356e025be75d2b111ad37b3236bfd19a04d580da6feaa0f6b07644747ae7c41b995263b552cb5583c38419847d1304fd15bdf708d88ccb6782721043f63a73a4a9e049a8f24b9874ef713a1d3f54bfdd140a7a2290f21ea7aac4d9b86563a8e3afea03998a72b7fe2bdea7e6fd1860683fdb5654ea1f47a7e5d1cfe3cd31c73890876b25b4fb9502ed9f478a169005d314eb39bc6a115662a7b0e997fc6ceefcb8c6e668d6c0a67a16529899a9d3cf8e1cba23460261c50ea0ab175258d869fe20462a7eceb5d03e23af0f1a11b427ea78ab4edf80a05fbd34e85fc7a2d258c145a520631789d15483e8a9e1d35e3e5c34a599bc8bc00009b35bfa8bf0d3074e2bfe51cdf5aa086c4e716a3970c393f9ea939b87fb67113750e886afe640c27eb17e94de3d1c4fb558240f64cc62f1cb66ac39a23b46f43efcd53448a5f07eba&segment=
+
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-name="Sab TV HD" group-title="GitHub" tvg-logo="", Sab TV HD
+https://nxtlive.net/sliv/stream.m3u8?live=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f2626103abc6c1c44974792e3af039bbf1fe98f269c9d2646b5a8b9deff755b9f28f9cf58d1c4eae23a32d4056084255dbb6dc0a193ed8548acad1d4ff8fd767cf295088e6fe79a8415d21052e25f9dae435360ce2254f7ee9c920495bfba32b1fda3b85352af3440f1e8a947632cef483f8d9d13e43700acc26ed01b02525110851a132900eeb8d7c689a1b1890edb3674acdab932894204620666f710f600f76645d7ea45c6d74e6104031b3b99583dcbb8cf1ca9824a5397187ec10907bcd21a3e2c4b5f59f0982b6d4367c028b4098be269280cac2823cd1adea27de96c2658fc994295abae39b8777a70df58b6c029944d7daa4c8b045069eb544cd624c69c1ec2eeb95cde9cb52c809e3f38cd04337f92272c61ad4d5436a9a88446b4919806729e4df3cfdf938f39f115e36fc13e7f7c2cdf24ea45570ac094df517b1c20b261b14acc44f32b662ceb0ae95f7e63&segment=
+
+
+# --------------------Music-------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Showbox" group-title="GitHub" tvg-logo="", Showbox
 https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8
