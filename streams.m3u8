@@ -1,11 +1,12 @@
 #EXTM3U
 # -------------Odia--------------------
 
-#EXTINF:-1 tvg-id="OTV.yt" tvg-name="OTV" group-title="GitHub" tvg-logo="", OTV
+#EXTINF:-1 tvg-id="OTV.yt" tvg-name="OTV" group-title="GitHub" tvg-logo="https://i.imgur.com/tCT3qL9.png", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrarthanaLife.yt" tvg-name="Prarthana Life" group-title="GitHub" tvg-logo="", Prarthana Life
-https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="PrarthanaLife.yt" tvg-name="Prarthana Life" group-title="GitHub" tvg-logo="https://i.imgur.com/gj7dtNF.png", Prarthana Life
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
+# https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TarangMusic.yt" tvg-name="Tarang Music" group-title="GitHub" tvg-logo="", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
