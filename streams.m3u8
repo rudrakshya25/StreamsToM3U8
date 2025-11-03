@@ -8,7 +8,7 @@ https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 # https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TarangMusic.yt" tvg-name="Tarang Music" group-title="GitHub" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png", Tarang Music
+#EXTINF:-1 tvg-id="TarangMusic.yt" tvg-name="Tarang Music" group-title="GitHub" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d jlllllllll5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 # https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
 
@@ -19,9 +19,6 @@ https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlankarTV.yt" tvg-name="Alankar TV" group-title="GitHub" tvg-logo="https://i.imgur.com/fY3ApRs.png", Alankar TV
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 # https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Badakhabar.yt" tvg-name="Badakhabar" group-title="GitHub" tvg-logo="https://i.imgur.com/XiwygDJ.png", Badakhabar
-https://live.ekamraott.com/badakhabar/badakhabar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DDoriya.yt" tvg-name="DD Oriya" group-title="GitHub" tvg-logo="https://i.imgur.com/Rw61ile.png", DD Oriya
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8  
@@ -46,8 +43,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-name="Mastiiii" group-title="GitHub" tvg-logo="https://i.imgur.com/lxgXHx4.png", Mastiiii
 https://sablive-ddpb.akamaized.net/mastii/mastii_poc_3500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="9X Music" group-title="GitHub" tvg-logo="", 9X Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/8cdf7c30-cc1c-45cb-8891-4fe61f035bb4/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X Music" group-title="GitHub" tvg-logo="https://i.imgur.com/F17QtN2.png", 9X Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="9x Jalwa" group-title="GitHub" tvg-logo="https://i.imgur.com/qubgOi5.png", 9x Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
@@ -61,13 +58,13 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/HD1080/HD1080.m3u8
 https://wiselp.wiseplayout.com/9X_Tashan/HD1080/HD1080.m3u8
 # https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Music India" group-title="GitHub" tvg-logo="", Music India
-https://cdn-2.pishow.tv/live/226/226_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music India" group-title="GitHub" tvg-logo="https://i.imgur.com/kXTCYqg.png", Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zoom" group-title="GitHub" tvg-logo="", Zoom
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/5906670c-2cd2-479d-8f6a-669e4d51f832/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" group-title="GitHub" tvg-logo="https://i.imgur.com/kcDJ4g0.png", Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E24" group-title="GitHub" tvg-logo="", E24
+#EXTINF:-1 tvg-id="" tvg-name="E24" group-title="GitHub" tvg-logo="https://i.imgur.com/vCaPNTe.png", E24
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/chunklist_0.m3u8
 
 
